@@ -1,0 +1,22 @@
+td{
+  border: solid;
+  }
+table{
+  border-collapse: collapse;
+  border-color: #554348;
+}
+.test1{
+  background-color: #554348;
+  color: white;
+
+}
+table td{
+    border-color: #554348;
+
+}
+.test2{
+  background-color: #8C9A9E;
+}
+.test3{
+  background-color: #D4F5F5;
+}

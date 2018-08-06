@@ -1,0 +1,12 @@
+body{
+  background-image: url(../images/neko.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+.pomme{
+  height: 400px;
+  width: 600px;
+  background-color: rgba(3, 3, 2, 0.82);
+  margin-left: auto;
+  margin-right: auto;
+}

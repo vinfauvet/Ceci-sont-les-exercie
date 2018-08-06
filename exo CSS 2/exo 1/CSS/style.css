@@ -1,0 +1,10 @@
+.test1{
+  height: 50px;
+  width: 300px;
+  background-color: blue;
+  overflow: hidden;
+}
+.test1:hover{
+overflow: visible;
+
+}
